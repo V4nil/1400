@@ -5,7 +5,8 @@ import robocode.*;
 
 public class JuniorRobot extends AdvancedRobot {
   
-  public void run() {
+  public void run() 
+  {
   	 
     while (true) {
       turnRadarRight(360);
